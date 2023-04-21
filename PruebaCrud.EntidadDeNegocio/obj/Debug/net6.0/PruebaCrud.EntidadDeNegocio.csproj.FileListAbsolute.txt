@@ -1,0 +1,12 @@
+C:\Users\tom19\source\repos\PruebaCrud\PruebaCrud.EntidadDeNegocio\bin\Debug\net6.0\PruebaCrud.EntidadDeNegocio.deps.json
+C:\Users\tom19\source\repos\PruebaCrud\PruebaCrud.EntidadDeNegocio\bin\Debug\net6.0\PruebaCrud.EntidadDeNegocio.dll
+C:\Users\tom19\source\repos\PruebaCrud\PruebaCrud.EntidadDeNegocio\bin\Debug\net6.0\PruebaCrud.EntidadDeNegocio.pdb
+C:\Users\tom19\source\repos\PruebaCrud\PruebaCrud.EntidadDeNegocio\obj\Debug\net6.0\PruebaCrud.EntidadDeNegocio.csproj.AssemblyReference.cache
+C:\Users\tom19\source\repos\PruebaCrud\PruebaCrud.EntidadDeNegocio\obj\Debug\net6.0\PruebaCrud.EntidadDeNegocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tom19\source\repos\PruebaCrud\PruebaCrud.EntidadDeNegocio\obj\Debug\net6.0\PruebaCrud.EntidadDeNegocio.AssemblyInfoInputs.cache
+C:\Users\tom19\source\repos\PruebaCrud\PruebaCrud.EntidadDeNegocio\obj\Debug\net6.0\PruebaCrud.EntidadDeNegocio.AssemblyInfo.cs
+C:\Users\tom19\source\repos\PruebaCrud\PruebaCrud.EntidadDeNegocio\obj\Debug\net6.0\PruebaCrud.EntidadDeNegocio.csproj.CoreCompileInputs.cache
+C:\Users\tom19\source\repos\PruebaCrud\PruebaCrud.EntidadDeNegocio\obj\Debug\net6.0\PruebaCrud.EntidadDeNegocio.dll
+C:\Users\tom19\source\repos\PruebaCrud\PruebaCrud.EntidadDeNegocio\obj\Debug\net6.0\refint\PruebaCrud.EntidadDeNegocio.dll
+C:\Users\tom19\source\repos\PruebaCrud\PruebaCrud.EntidadDeNegocio\obj\Debug\net6.0\PruebaCrud.EntidadDeNegocio.pdb
+C:\Users\tom19\source\repos\PruebaCrud\PruebaCrud.EntidadDeNegocio\obj\Debug\net6.0\ref\PruebaCrud.EntidadDeNegocio.dll

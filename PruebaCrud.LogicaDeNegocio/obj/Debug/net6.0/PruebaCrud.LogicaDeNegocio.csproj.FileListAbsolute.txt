@@ -1,0 +1,17 @@
+C:\Users\tom19\source\repos\PruebaCrud\PruebaCrud.LogicaDeNegocio\bin\Debug\net6.0\PruebaCrud.LogicaDeNegocio.deps.json
+C:\Users\tom19\source\repos\PruebaCrud\PruebaCrud.LogicaDeNegocio\bin\Debug\net6.0\PruebaCrud.LogicaDeNegocio.dll
+C:\Users\tom19\source\repos\PruebaCrud\PruebaCrud.LogicaDeNegocio\bin\Debug\net6.0\PruebaCrud.LogicaDeNegocio.pdb
+C:\Users\tom19\source\repos\PruebaCrud\PruebaCrud.LogicaDeNegocio\bin\Debug\net6.0\PruebaCrud.AccesoADatos.dll
+C:\Users\tom19\source\repos\PruebaCrud\PruebaCrud.LogicaDeNegocio\bin\Debug\net6.0\PruebaCrud.EntidadDeNegocio.dll
+C:\Users\tom19\source\repos\PruebaCrud\PruebaCrud.LogicaDeNegocio\bin\Debug\net6.0\PruebaCrud.AccesoADatos.pdb
+C:\Users\tom19\source\repos\PruebaCrud\PruebaCrud.LogicaDeNegocio\bin\Debug\net6.0\PruebaCrud.EntidadDeNegocio.pdb
+C:\Users\tom19\source\repos\PruebaCrud\PruebaCrud.LogicaDeNegocio\obj\Debug\net6.0\PruebaCrud.LogicaDeNegocio.csproj.AssemblyReference.cache
+C:\Users\tom19\source\repos\PruebaCrud\PruebaCrud.LogicaDeNegocio\obj\Debug\net6.0\PruebaCrud.LogicaDeNegocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tom19\source\repos\PruebaCrud\PruebaCrud.LogicaDeNegocio\obj\Debug\net6.0\PruebaCrud.LogicaDeNegocio.AssemblyInfoInputs.cache
+C:\Users\tom19\source\repos\PruebaCrud\PruebaCrud.LogicaDeNegocio\obj\Debug\net6.0\PruebaCrud.LogicaDeNegocio.AssemblyInfo.cs
+C:\Users\tom19\source\repos\PruebaCrud\PruebaCrud.LogicaDeNegocio\obj\Debug\net6.0\PruebaCrud.LogicaDeNegocio.csproj.CoreCompileInputs.cache
+C:\Users\tom19\source\repos\PruebaCrud\PruebaCrud.LogicaDeNegocio\obj\Debug\net6.0\PruebaCrud.LogicaDeNegocio.csproj.CopyComplete
+C:\Users\tom19\source\repos\PruebaCrud\PruebaCrud.LogicaDeNegocio\obj\Debug\net6.0\PruebaCrud.LogicaDeNegocio.dll
+C:\Users\tom19\source\repos\PruebaCrud\PruebaCrud.LogicaDeNegocio\obj\Debug\net6.0\refint\PruebaCrud.LogicaDeNegocio.dll
+C:\Users\tom19\source\repos\PruebaCrud\PruebaCrud.LogicaDeNegocio\obj\Debug\net6.0\PruebaCrud.LogicaDeNegocio.pdb
+C:\Users\tom19\source\repos\PruebaCrud\PruebaCrud.LogicaDeNegocio\obj\Debug\net6.0\ref\PruebaCrud.LogicaDeNegocio.dll

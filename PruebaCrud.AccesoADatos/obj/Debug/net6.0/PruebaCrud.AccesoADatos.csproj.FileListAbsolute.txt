@@ -1,0 +1,15 @@
+C:\Users\tom19\source\repos\PruebaCrud\PruebaCrud.AccesoADatos\bin\Debug\net6.0\PruebaCrud.AccesoADatos.deps.json
+C:\Users\tom19\source\repos\PruebaCrud\PruebaCrud.AccesoADatos\bin\Debug\net6.0\PruebaCrud.AccesoADatos.dll
+C:\Users\tom19\source\repos\PruebaCrud\PruebaCrud.AccesoADatos\bin\Debug\net6.0\PruebaCrud.AccesoADatos.pdb
+C:\Users\tom19\source\repos\PruebaCrud\PruebaCrud.AccesoADatos\bin\Debug\net6.0\PruebaCrud.EntidadDeNegocio.dll
+C:\Users\tom19\source\repos\PruebaCrud\PruebaCrud.AccesoADatos\bin\Debug\net6.0\PruebaCrud.EntidadDeNegocio.pdb
+C:\Users\tom19\source\repos\PruebaCrud\PruebaCrud.AccesoADatos\obj\Debug\net6.0\PruebaCrud.AccesoADatos.csproj.AssemblyReference.cache
+C:\Users\tom19\source\repos\PruebaCrud\PruebaCrud.AccesoADatos\obj\Debug\net6.0\PruebaCrud.AccesoADatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tom19\source\repos\PruebaCrud\PruebaCrud.AccesoADatos\obj\Debug\net6.0\PruebaCrud.AccesoADatos.AssemblyInfoInputs.cache
+C:\Users\tom19\source\repos\PruebaCrud\PruebaCrud.AccesoADatos\obj\Debug\net6.0\PruebaCrud.AccesoADatos.AssemblyInfo.cs
+C:\Users\tom19\source\repos\PruebaCrud\PruebaCrud.AccesoADatos\obj\Debug\net6.0\PruebaCrud.AccesoADatos.csproj.CoreCompileInputs.cache
+C:\Users\tom19\source\repos\PruebaCrud\PruebaCrud.AccesoADatos\obj\Debug\net6.0\PruebaCrud.AccesoADatos.csproj.CopyComplete
+C:\Users\tom19\source\repos\PruebaCrud\PruebaCrud.AccesoADatos\obj\Debug\net6.0\PruebaCrud.AccesoADatos.dll
+C:\Users\tom19\source\repos\PruebaCrud\PruebaCrud.AccesoADatos\obj\Debug\net6.0\refint\PruebaCrud.AccesoADatos.dll
+C:\Users\tom19\source\repos\PruebaCrud\PruebaCrud.AccesoADatos\obj\Debug\net6.0\PruebaCrud.AccesoADatos.pdb
+C:\Users\tom19\source\repos\PruebaCrud\PruebaCrud.AccesoADatos\obj\Debug\net6.0\ref\PruebaCrud.AccesoADatos.dll
